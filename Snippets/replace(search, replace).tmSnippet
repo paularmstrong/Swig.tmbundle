@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>|replace("${1:search}", "${2:replace}"${3:, "${4:flags}"})</string>
+	<key>keyEquivalent</key>
+	<string>@\</string>
+	<key>name</key>
+	<string>replace(search, replace[, flags])</string>
+	<key>scope</key>
+	<string>text.html.swig</string>
+	<key>uuid</key>
+	<string>81002417-344F-4828-9FD5-F74ABBCC0EAB</string>
+</dict>
+</plist>

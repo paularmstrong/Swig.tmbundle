@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>|join("${1:glue}")</string>
+	<key>keyEquivalent</key>
+	<string>@\</string>
+	<key>name</key>
+	<string>join([glue])</string>
+	<key>scope</key>
+	<string>text.html.swig</string>
+	<key>uuid</key>
+	<string>27F4D904-1D48-480C-8FC7-9811425DBEB5</string>
+</dict>
+</plist>
