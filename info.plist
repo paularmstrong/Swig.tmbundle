@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Swig</string>
+	<key>ordering</key>
+	<array>
+		<string>85880CFF-7FAE-4122-B8AE-55F6644DF6FE</string>
+		<string>B92D5C5F-BB04-4AA5-B202-86FCAA3048AB</string>
+		<string>F7010459-E0B5-4F65-AA5F-98B285830C19</string>
+		<string>FD8BA4BD-FBC1-4676-98C7-2CA8046D3106</string>
+		<string>FDC06F14-4712-48A6-BCBD-C8D62B156EDE</string>
+		<string>97614F81-FCB8-4085-83DC-9E31E810A6C4</string>
+		<string>A3F9BAB4-F143-47E7-AB31-28ED933D409B</string>
+		<string>A7133530-648C-49B7-838E-0911239D9785</string>
+		<string>7FF1350B-F637-4DD1-B92E-BA9E7C09ADA5</string>
+		<string>D6C36371-5604-49DF-BB49-8163A0F57812</string>
+		<string>7652D2CF-0361-44BD-992B-1E323F0A21D8</string>
+		<string>7147E3E7-D513-4FDF-B54B-C12A5994D72D</string>
+		<string>D8D69A3D-A040-41B6-8A22-478C5C6EAC03</string>
+		<string>8D7E3379-421A-4E7A-B3F6-F706838D3330</string>
+	</array>
+	<key>uuid</key>
+	<string>9E27DB60-57AA-4C01-B523-6EB8DE79473C</string>
+</dict>
+</plist>
