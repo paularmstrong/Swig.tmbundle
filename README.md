@@ -26,7 +26,7 @@ All tags support tab-completion
 
 ### Filters
 
-Filters are supported under the <kbd>⌘\</kbd> keyboard command. Hit <kbd>⌘\</kbd> to get a list of built-in filters.
+Filters are supported under the <kbd>⌘\\</kbd> keyboard command. Hit <kbd>⌘\\</kbd> to get a list of built-in filters.
 
 ## License
 
