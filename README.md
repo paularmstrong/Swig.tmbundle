@@ -6,6 +6,28 @@ This is a TextMate bundle for [Swig](http://paularmstrong.github.com/swig), a te
 
     git clone git@github.com:paularmstrong/Swig.tmbundle.git && open Swig.tmbundle
 
+## Included
+
+### Language Definition
+
+Swig assumes it is a subset of the HTML language definition. All HTML-based commands and preferences are extended via the Swig bundle.
+
+This bundle adds support for tag-folding, Swig comments, and smart typing pairs.
+
+### Tags
+
+All tags support tab-completion
+
+    block⇥
+
+    {% block ${1:blockname} %}
+        $0
+    {% endblock %}
+
+### Filters
+
+Filters are supported under the <kbd>⌘\</kbd> keyboard command. Hit <kbd>⌘\</kbd> to get a list of built-in filters.
+
 ## License
 
 Copyright (c) 2011 Paul Armstrong, Paul Armstrong Designs
