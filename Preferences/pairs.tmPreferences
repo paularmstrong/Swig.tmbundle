@@ -34,6 +34,10 @@
 				<string>'</string>
 				<string>'</string>
 			</array>
+			<array>
+				<string>&lt;</string>
+				<string>&gt;</string>
+			</array>
 		</array>
 		<key>smartTypingPairs</key>
 		<array>
@@ -60,6 +64,10 @@
 			<array>
 				<string>'</string>
 				<string>'</string>
+			</array>
+			<array>
+				<string>&lt;</string>
+				<string>&gt;</string>
 			</array>
 		</array>
 	</dict>
