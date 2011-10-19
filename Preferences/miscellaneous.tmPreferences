@@ -9,11 +9,15 @@
 	<key>settings</key>
 	<dict>
 		<key>decreaseIndentPattern</key>
-		<string>^\s*\{%\s*(else|endif|empty|endfor|endblock|endautoescape|endmacro)\s*%\}</string>
+		<string>(else|endif|empty|endfor|endblock|endautoescape|endmacro)\s*%\}</string>
 		<key>increaseIndentPattern</key>
-		<string>^\s*\{%\s*(if|for|block|autoescape|macro) </string>
+		<string>\{%\s*(if|for|block|autoescape|macro)</string>
+		<key>indentNextLinePattern</key>
+		<string>\{%\s*(if|for|block|autoescape|macro)</string>
 		<key>spellChecking</key>
 		<string>0</string>
+		<key>unIndentedLinePattern</key>
+		<string>(else|endif|empty|endfor|endblock|endautoescape|endmacro)\s*%\}</string>
 	</dict>
 	<key>uuid</key>
 	<string>63785EB6-2B17-4468-9537-E8F816F83639</string>
