@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>text.html.swig</string>
 	<key>tabTrigger</key>
-	<string>import</string>
+	<string>macro</string>
 	<key>uuid</key>
 	<string>7652D2CF-0361-44BD-992B-1E323F0A21D8</string>
 </dict>
