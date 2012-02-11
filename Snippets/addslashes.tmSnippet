@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>||addslashes</string>
+	<string>|addslashes</string>
 	<key>keyEquivalent</key>
 	<string>@\</string>
 	<key>name</key>
