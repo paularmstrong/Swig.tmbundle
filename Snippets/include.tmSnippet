@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{% include "${1:file}" %}</string>
+	<string>{% include "${1:file}" ${2:with ${3:context}${4: only}} %}</string>
 	<key>name</key>
 	<string>include</string>
 	<key>scope</key>
